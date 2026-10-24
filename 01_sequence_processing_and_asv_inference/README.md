@@ -1,1 +1,1 @@
-Scripts for sequence processing using Cutadapt and DADA2.
+Scripts for sequence processing using cutadapt, ITSxpress and DADA2.
