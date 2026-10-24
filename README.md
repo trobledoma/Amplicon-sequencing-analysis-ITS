@@ -1,1 +1,1 @@
-# its-bioinformatic-pipeline
+# Amplicon-sequencing-analyssis-ITS
