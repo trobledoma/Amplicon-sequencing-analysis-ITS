@@ -1,1 +1,1 @@
-# Amplicon-sequencing-analyssis-ITS
+# Amplicon-sequencing-analysis-ITS
